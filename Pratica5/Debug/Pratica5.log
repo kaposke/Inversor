@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\guilh\documents\visual studio 2015\projects\pratica5\pratica5\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Pratica5.vcxproj -> C:\Users\guilh\Documents\Visual Studio 2015\Projects\Pratica5\Debug\Pratica5.exe
+  Pratica5.vcxproj -> C:\Users\guilh\Documents\Visual Studio 2015\Projects\Pratica5\Debug\Pratica5.pdb (Partial PDB)
